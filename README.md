@@ -17,14 +17,16 @@ TABLE OF CONTENTS
 GENERAL INFORMATION
 --------------------
 ​
-1. **Publication or Dataset title:** <Publication or Dataset Title>   
+1. **Publication or Dataset title:**
+Clinical responses to trastuzumab deruxtecan in molecularly defined ependymoma   
 ​
-2. **Authors:** <List; No need to include affiliations.>  
+2. **Authors:** 
+L Nicolas Gonzalez Castro, Yi-Chien Wu, Jia-Ren Lin, Maria-Joao Santiago-Ribeiro, Alice Laurenge, Alexandre Carpentier, Shannon Coy, Nancy U. Lin, Karima Mokhtari, Keith L. Ligon, Mehdi Touat, Sandro Santagata 
 ​
-3. **Please cite this data as the following:**  <Following standard APA citation format - if this data is associated with a publication, this should be the paper citation>    
-Author Last, Author F. (Year). Title of data set (Version number) [Description of form]. Location: Name of producer.    
+3. **Please cite this data as the following:**      
+Gonzalez Castro (2026). Clinical responses to trastuzumab deruxtecan in molecularly defined ependymoma. {journal/biorxv}     
   
-4. **Relevant links:** <remove links that are not relevant>  
+5. **Relevant links:** <remove links that are not relevant>  
 > * Publication DOI: [doi.org/MY-PAPER-DOI](https://doi.org/MY-PAPER-DOI-URL) 
 > * Associated GitHub Repository: [MY-REPO](https://github.com/MY-REPO-URL)  
 > * To view an archived record of this repository: [My-ZENODO-DOI](https://zenodo.org/doi/MY-ZENDODO-DOI-URL) 
@@ -87,7 +89,7 @@ X, Y, Z, data is available on Synapse at: [synapse.org/MY-PUBLIC-SYNAPSE-LIBRARY
 |Patient or Biospecimen ID | File Name       | Location| File size |
 |------- | ----------------|---------|-----------|
 |ID | ID.ome.tif | AWS     | N.N GB   |
-​
+|LSP33564 | LSP33564.ome.tif | AWS     | 66.54 GB   |​
 ​
 ### N_HE.vsi
 ​
@@ -139,4 +141,4 @@ X, Y, Z, data is available on Synapse at: [synapse.org/MY-PUBLIC-SYNAPSE-LIBRARY
 ADDITIONAL NOTES/COMMENTS
 --------------------------
 ​
-Please let **(Name, contact information)** know if any errors are found in this data.  
+Please let **(Sandro Santagata, ssantagata@bwh.harvard.edu)** know if any errors are found in this data.  
